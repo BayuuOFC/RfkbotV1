@@ -12,6 +12,7 @@ handler.help = ['nhpdf'].map(v => v + ' <code>')
 handler.tags = ['hentai']
 handler.command = /^(nhpdf)$/i
 handler.limit = 1
+handler.premium = true
 module.exports = handler
 
 async function getBuffer(url) {
