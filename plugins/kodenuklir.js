@@ -887,9 +887,9 @@ Omega
 handler.help = ['kodenuklir']
 handler.tags = ['hentai']
 handler.command = /^kodenuklir$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
-handler.premium = false
+handler.premium = true
 handler.group = false
 handler.private = false
 
