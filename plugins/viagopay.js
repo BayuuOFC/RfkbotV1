@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via Gopay
 ╠➥ Ke nomer ini
-║➥ 085730903853
+║➥ 089525518325
 ║
 ╠═〘 Fitur 〙 ═
 ║
@@ -22,8 +22,8 @@ let handler = async (m, { conn }) => {
 ╠➥ *DAN 200 LEBIH*
 ║   *FITUR LAINNYA*
 ║ 
-╠═ ©2021 Rpg wabot-aq
-╠═ Scrip original by Nurutomo
+╠═ ©2021 Rpg KAGUYA-BOT
+╠═ Scrip original by BayuuOFC
 ╠═〘 ${namabot} 〙 ═`.trim(), m)
 }
 
