@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['085725924473'] // Put your number here //owner eval
-global.kontak = ['085725924473','0'] //Ketika ada yang ngetik #owner
-global.mods = ['0'] // Want some help?
-global.prems = ['085725924473'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/Gj0kHatV2AoFyL2WyTTv2o'] // ganti jadi group lu
+global.owner = ['089525518325'] // Put your number here //owner eval
+global.kontak = ['089525518325'] //Ketika ada yang ngetik #owner
+global.mods = ['089525518325'] // Want some help?
+global.prems = ['089525518325'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -31,7 +31,7 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey' (apikey kalian)
+  // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'Dawnfrostkey',
   'https://api.lolhuman.xyz': 'RFK-Rey',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
@@ -44,23 +44,23 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namaig = '@bayuganz_665'
+namagithub = 'https://github.com/Bayubotwa'
 kasihcaption = `Nih kak`
-namakontak1 = 'KAKA BOT'
-namakontak2 = 'KAKA BOT'
+namakontak1 = 'BAYUU OFC'
+namakontak2 = 'BAYUU OFC'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By KAKA BOT' // ganti aja
-global.author = 'KAKA BOT' // ganti aja
+global.packname = 'By KAGUYA-BOT2' // ganti aja
+global.author = 'BAYU OFC' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //KAKA BOT Broadcast
-footer = '\n©KAKA BOT'
-namabot = 'KAKA BOT'
-namalu = 'KAKA BOT'
+bc = 'KAGUYA-BOT2' //KAKA BOT Broadcast
+footer = '\n©KAGUYA-BOT2'
+namabot = 'KAGUYA-BOT2'
+namalu = 'BAYU OFC'
 
 
 // 
@@ -73,7 +73,7 @@ global.eror = '_*Server Error*_'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 36 // The higher, The harder levelup
+global.multiplier = 36 // The higher, The hard levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
